@@ -21,4 +21,4 @@ async def on_ready():
         f'{guild.name}(id: {guild.id})'
     )
 
-client.run(TOKEN)
+client.run('ODkwNTExNDAwMDQ3MzUzODU2.YUw3Xg.AfW58hQ-5DKNVmyVMaBAgQv0IRc')
